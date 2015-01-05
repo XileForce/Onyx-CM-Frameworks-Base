@@ -3168,6 +3168,12 @@ public final class Settings {
         public static final String NAVIGATION_BAR_SHOW = "navigation_bar_show";
 
         /**
+         * Timeout for ambient display notification
+         * @hide
+         */
+        public static final String DOZE_TIMEOUT = "doze_timeout";
+
+        /**
          * Whether the phone ringtone should be played in an increasing manner
          * @hide
          */
